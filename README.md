@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently trying to learn **everything**
 
-- 💼 I’m looking for an internship
+- 💼 I’m on the job market
 
 - 📃 download my 1-page résumé <a href="https://drive.google.com/file/d/1wfVBZ7flEyCvCs6HkUpQSqm6zg7PGjwu">here</a> </h3>
 
