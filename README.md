@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gennaro</h1>
-<h3 align="center">PhD candidate at <a href="https://uai.win.tue.nl/">Einhoven University of Technology</a> </h3>
+<h3 align="center">PhD candidate in ML at <a href="https://uai.win.tue.nl/">Einhoven University of Technology</a> </h3>
 
 - 🔭 I’m currently working on (tractable) generative models and self-organizing models
 
