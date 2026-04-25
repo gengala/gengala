@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gennaro</h1>
+<h1 align="center">Hi 👋 I'm Gennaro</h1>
 <h3 align="center">AI research engineer at <a href="https://www.linkedin.com/company/axelera-ai/">Axelera AI</a> </h3>
 
 - 🔭 I’m currently working on LLMs, PTQ and tensor networks
